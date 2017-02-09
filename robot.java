@@ -1,5 +1,5 @@
 package org.usfirst.frc.team3008.robot;
-//Importing stuff from wpilib
+//Importing stuff from wpilib.
 import edu.wpi.first.wpilibj.Joystick;
 import edu.wpi.first.wpilibj.RobotDrive;
 import edu.wpi.first.wpilibj.RobotDrive.MotorType;
